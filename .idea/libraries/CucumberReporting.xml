@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="CucumberReporting">
+    <CLASSES>
+      <root url="jar://C:/CucumberReporting/cucumber-reporting-0.0.23.jar!/" />
+      <root url="jar://C:/CucumberReporting/commons-collections-3.2.1.jar!/" />
+      <root url="jar://C:/CucumberReporting/commons-io-2.3.jar!/" />
+      <root url="jar://C:/CucumberReporting/commons-lang-2.4.jar!/" />
+      <root url="jar://C:/CucumberReporting/gson-2.2.4.jar!/" />
+      <root url="jar://C:/CucumberReporting/guava-r09.jar!/" />
+      <root url="jar://C:/CucumberReporting/joda-time-2.1.jar!/" />
+      <root url="jar://C:/CucumberReporting/jsoup-1.7.2.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-artifact-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-artifact-manager-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-gpg-plugin-1.4.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-model-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-plugin-api-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-plugin-registry-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-profile-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-project-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-repository-metadata-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/maven-settings-2.0.6.jar!/" />
+      <root url="jar://C:/CucumberReporting/mockito-all-1.9.0.jar!/" />
+      <root url="jar://C:/CucumberReporting/plexus-utils-2.0.5.jar!/" />
+      <root url="jar://C:/CucumberReporting/totallylazy-1077.jar!/" />
+      <root url="jar://C:/CucumberReporting/velocity-1.7.jar!/" />
+      <root url="jar://C:/CucumberReporting/velocity-tools-1.4.jar!/" />
+      <root url="jar://C:/CucumberReporting/wagon-provider-api-1.0-beta-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/CucumberReporting/mockito-all-1.9.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
