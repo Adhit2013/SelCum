@@ -7,8 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Selenium" level="project" />
     <orderEntry type="library" name="Cucumber" level="project" />
     <orderEntry type="library" name="CucumberReporting" level="project" />
+    <orderEntry type="library" name="Selenium" level="project" />
   </component>
 </module>

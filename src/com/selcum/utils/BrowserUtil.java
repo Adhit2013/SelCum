@@ -9,7 +9,7 @@ public class BrowserUtil {
 
     public static void openBrowser(){
         if(driver == null) {
-            System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "C:\\Users\\rmenon\\IdeaProjects\\SelCum\\lib\\Selenium\\chromedriver.exe");
             driver = new ChromeDriver();
             System.out.println("Driver initialized");
         }
