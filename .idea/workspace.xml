@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3266d4a1-9a2b-4d47-88de-9808e9392da0" name="Default" comment="Added cucumber jars">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cucumber/cucumber-core-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cucumber/cucumber-html-0.2.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cucumber/cucumber-java-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cucumber/cucumber-junit-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cucumber/cucumber-jvm-deps-1.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cucumber/gherkin-2.12.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cucumber/gherkin-jvm-deps-1.0.2.jar" />
+    <list default="true" id="3266d4a1-9a2b-4d47-88de-9808e9392da0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/commons-collections-3.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/commons-io-2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/commons-lang-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/cucumber-reporting-0.0.23.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/gson-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/guava-r09.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/joda-time-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/jsoup-1.7.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-artifact-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-artifact-manager-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-gpg-plugin-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-model-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-plugin-api-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-plugin-registry-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-profile-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-project-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-repository-metadata-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/maven-settings-2.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/mockito-all-1.9.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/plexus-utils-2.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/totallylazy-1077.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/velocity-1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/velocity-tools-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CucumberReporting/wagon-provider-api-1.0-beta-2.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SelCum.iws" />
@@ -133,10 +150,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cucumber" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -422,7 +435,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431708818713</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added cucumber jars">
+      <created>1431709041740</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1431709041740</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -480,7 +499,8 @@
     <MESSAGE value="Removed Selenium library" />
     <MESSAGE value="Added IntelliJ workspace file" />
     <MESSAGE value="Added IntelliJ workspace and vcs config files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added IntelliJ workspace and vcs config files" />
+    <MESSAGE value="Added cucumber jars" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added cucumber jars" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
